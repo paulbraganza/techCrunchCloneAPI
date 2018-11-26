@@ -1,4 +1,4 @@
-# techCrunchCloneAPI
+# TechCrunchCloneAPI
 
 > This an API for [TechCrunchClone Project](https://github.com/paulbraganza12/techCrunchCloneAngularApp)
 
