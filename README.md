@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Author
 
-* **Paul Braganza** - *Initial work* - [TechCrunchAPI](https://github.com/paulbraganza12/techCrunchCloneAngularApp)
+* **Paul Braganza** - *Initial work* - [TechCrunchClone](https://github.com/paulbraganza12/techCrunchCloneAngularApp)
 
 ## License
 
