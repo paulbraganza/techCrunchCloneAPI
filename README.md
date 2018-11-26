@@ -13,3 +13,11 @@ Clone/Download the project and run "pip install -r requirements.txt"
 ```
 pip install -r requirements.txt
 ```
+
+## Author
+
+* **Paul Braganza** - *Initial work* - [TechCrunchAPI](https://github.com/paulbraganza12/techCrunchCloneAngularApp)
+
+## License
+
+This project is licensed
